@@ -29,6 +29,12 @@ namespace Day_33_AddressBookAndPayRoll
             }
             return true;
         }
+
+        public bool AddData(string employeeName, double basicPay)
+        {
+            return true;
+        }
+
         public static void CreateTables()
         {
             try
