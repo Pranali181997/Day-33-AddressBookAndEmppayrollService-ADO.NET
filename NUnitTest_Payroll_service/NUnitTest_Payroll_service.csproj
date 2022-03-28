@@ -13,4 +13,8 @@
     <PackageReference Include="coverlet.collector" Version="3.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Day-33-AddressBookAndPayRoll\Day-33-AddressBookAndPayRoll.csproj" />
+  </ItemGroup>
+
 </Project>
